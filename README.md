@@ -1,0 +1,1 @@
+A group project on a web-based platform for comparing the efficiency, scalability, and cost-effectiveness of blockchain systems with a focus on security. Users can upload data, run experiments, and visualize performance metrics like gas usage and execution time for Ethereum and Lightweight Blockchain (Streamlit, Solidity, Ganache CLI, Truffle, and IPFS)
